@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm **Muhammad Reva Ferdiansyah**, you can call me **Reva**.
+- 🔭 I'm currently studying on Universitas Pendidikan Indonesia.
+- 🌱 I’m currently learning about Cloud Computing in Bangkit Program.
+- 📫 If you want get to know about me, you can follow [LinkedIn](https://www.linkedin.com/in/m-reva-f/)
+
 <!--
 **mrevaf/mrevaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
